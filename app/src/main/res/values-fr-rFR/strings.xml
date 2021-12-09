@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XXXXX</string>
+
+    <string name="age">âge</string>
+    <string name="weight">Weight</string>
+    <string name="height">la taille</string>
+
+</resources>

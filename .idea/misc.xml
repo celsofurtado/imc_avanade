@@ -7,10 +7,16 @@
         <entry key="..\:/Users/Celso/AndroidStudioProjects/IMC20/app/src/main/res/drawable/imc_status_background.xml" value="0.3411458333333333" />
         <entry key="..\:/Users/Celso/AndroidStudioProjects/IMC20/app/src/main/res/layout/activity_main.xml" value="0.4276885043263288" />
         <entry key="..\:/Users/Celso/AndroidStudioProjects/IMC20/app/src/main/res/layout/item_pesagem_layout.xml" value="0.33" />
+        <entry key="..\:/Users/sn1006137.CFP127ALUNO/AndroidStudioProjects/imc_avanade/app/src/main/res/drawable/ic_bottom_wave.xml" value="0.35625" />
+        <entry key="..\:/Users/sn1006137.CFP127ALUNO/AndroidStudioProjects/imc_avanade/app/src/main/res/drawable/ic_top_wave.xml" value="0.35625" />
+        <entry key="..\:/Users/sn1006137.CFP127ALUNO/AndroidStudioProjects/imc_avanade/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/sn1006137.CFP127ALUNO/AndroidStudioProjects/imc_avanade/app/src/main/res/layout/activity_main.xml" value="0.251953125" />
+        <entry key="..\:/Users/sn1006137.CFP127ALUNO/AndroidStudioProjects/imc_avanade/app/src/main/res/layout/activity_novo.xml" value="0.251953125" />
+        <entry key="..\:/Users/sn1006137.CFP127ALUNO/AndroidStudioProjects/imc_avanade/app/src/main/res/layout/activity_novo_usuario.xml" value="0.251953125" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

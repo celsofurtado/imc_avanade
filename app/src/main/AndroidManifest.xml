@@ -9,20 +9,26 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.IMC20">
+
         <activity
             android:name=".view.NovoUsuarioActivity"
             android:exported="false" />
+
         <activity
             android:name=".view.LoginActivity"
-            android:exported="false" />
-        <activity
-            android:name=".view.MainActivity"
-            android:exported="true">
+            android:exported="true" >
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".view.MainActivity"
+            android:exported="false">
+
         </activity>
 
         <meta-data

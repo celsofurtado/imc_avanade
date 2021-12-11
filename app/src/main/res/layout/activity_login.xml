@@ -51,7 +51,8 @@
             android:hint="Senha"
             android:drawableStart="@drawable/lock_24"
             android:drawablePadding="16dp"
-            android:drawableTint="@color/purple_200"/>
+            android:drawableTint="@color/purple_200"
+            android:inputType="textPassword"/>
 
         <CheckBox
             android:id="@+id/login_check_box_lembrar"
